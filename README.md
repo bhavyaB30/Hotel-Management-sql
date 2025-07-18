@@ -21,4 +21,4 @@ This project is a desktop-based application that simplifies the administrative t
 Component	Technology
 Frontend	Python 
 Backend	Python
-Database	SQL (MySQL or SQLite)
+Database	SQL (MySQL)
