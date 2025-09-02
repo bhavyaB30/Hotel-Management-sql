@@ -22,3 +22,12 @@ Component	Technology
 Frontend	Python 
 Backend	Python
 Database	SQL (MySQL)
+
+
+## 👨‍💻 Contributors  
+
+- [**Bhavya Bhambhani**](https://github.com/bhavyaB30)  
+
+<!-- - [**Himank Xavier Soren**](https://github.com/himank111)  -->
+
+
