@@ -28,6 +28,6 @@ Database	SQL (MySQL)
 
 - [**Bhavya Bhambhani**](https://github.com/bhavyaB30)  
 
-<!-- - [**Himank Xavier Soren**](https://github.com/himank111)  -->
+- [**Himank Xavier Soren**](https://github.com/himank111)
 
 
